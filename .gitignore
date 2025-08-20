@@ -1,0 +1,19 @@
+# Eclipse specific files
+.classpath
+.project
+.cproject
+.settings/
+
+# Build output
+bin/
+Debug/
+release/
+
+# Other files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
